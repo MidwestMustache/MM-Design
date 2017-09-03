@@ -1,17 +1,25 @@
 {
   "3BB4B16F-A01D-496B-A70E-08FE2F93EF42": {
-    "scrollOrigin": "{-1798, 320}",
-    "zoomValue": 0.5
+    "scrollOrigin": "{-736, 160}",
+    "zoomValue": 0.25
   },
   "68CDDB49-B3DF-45AD-BC24-925DD374EFBF": {
-    "scrollOrigin": "{-922, 70}",
-    "zoomValue": 0.5
+    "scrollOrigin": "{-333, 128}",
+    "zoomValue": 0.25
+  },
+  "9A1282A3-7D67-416D-BD9F-D67622A4D578": {
+    "scrollOrigin": "{303, -950}",
+    "zoomValue": 1
   },
   "A5F9C7C0-DB17-4286-9326-D43B025374D0": {
-    "scrollOrigin": "{80, 502}",
-    "zoomValue": 0.25
+    "scrollOrigin": "{182, 524}",
+    "zoomValue": 1
   },
   "A8A27A94-E10C-4F08-80E0-2DBAEF504456": {
     "pageListHeight": 110
+  },
+  "E08CD7BE-E5F0-4BC1-AB96-A1F9E191A98D": {
+    "scrollOrigin": "{475, 437}",
+    "zoomValue": 0.5
   }
 }

@@ -14,7 +14,12 @@
     "variant": "NONAPPSTORE",
     "version": 93
   },
-  "fonts": [],
+  "fonts": [
+    "SourceSansPro-Light",
+    "SourceSansPro-Regular",
+    "NotoSansCJKkr-DemiLight",
+    "TimesNewRomanPSMT"
+  ],
   "pagesAndArtboards": {
     "68CDDB49-B3DF-45AD-BC24-925DD374EFBF": {
       "artboards": {
@@ -23,6 +28,20 @@
         }
       },
       "name": "app"
+    },
+    "993D0EEC-B792-4804-BC8D-C2EBC6F8C181": {
+      "artboards": {
+        "4C9F279D-DF04-44A8-A65D-C30E5D12EE14": {
+          "name": "Ruby on Rails でブログシス"
+        },
+        "7898E31A-E559-4453-B129-2BA6921EE3B5": {
+          "name": "Posted on JULY 3, 20"
+        },
+        "CF55D362-D99B-44E3-9112-23771AB5EE4F": {
+          "name": "tag"
+        }
+      },
+      "name": "Symbols"
     }
   },
   "saveHistory": [
