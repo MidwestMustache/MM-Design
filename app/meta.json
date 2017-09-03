@@ -1,0 +1,33 @@
+{
+  "app": "com.bohemiancoding.sketch3",
+  "appVersion": "46.2",
+  "autosaved": 0,
+  "build": 44496,
+  "commit": "752502a5f62450dd6555e39d77a464fb4c5043e7",
+  "compatibilityVersion": 93,
+  "created": {
+    "app": "com.bohemiancoding.sketch3",
+    "appVersion": "46.2",
+    "build": 44496,
+    "commit": "752502a5f62450dd6555e39d77a464fb4c5043e7",
+    "compatibilityVersion": 93,
+    "variant": "NONAPPSTORE",
+    "version": 93
+  },
+  "fonts": [],
+  "pagesAndArtboards": {
+    "68CDDB49-B3DF-45AD-BC24-925DD374EFBF": {
+      "artboards": {
+        "B40F4FED-E548-467A-86CC-1DB460662F1C": {
+          "name": "Desktop Top"
+        }
+      },
+      "name": "app"
+    }
+  },
+  "saveHistory": [
+    "NONAPPSTORE.44496"
+  ],
+  "variant": "NONAPPSTORE",
+  "version": 93
+}
