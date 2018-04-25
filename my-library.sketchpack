@@ -1,0 +1,49 @@
+{
+  "name": "My Library",
+  "schema_version": "1.0.0",
+  "locked": false,
+  "plugins": {
+    "com.kenmoore.sketch.betterpaste": {
+      "version": ">=1.4.0"
+    },
+    "com.hrescak.flexlayout": {
+      "version": ">=1.0.0"
+    },
+    "com.example.sketch.e13b26b9-79fe-4be0-8d5b-816323eaf8ff": {
+      "version": ">=0.1.2"
+    },
+    "com.animaapp.stc-sketch-plugin": {
+      "version": ">=0.11.0"
+    },
+    "com.taptap.ninja.rename-it": {
+      "version": ">=3.7.0"
+    },
+    "io.zeplin.sketch-plugin": {
+      "version": ">=1.6.3"
+    },
+    "com.peachscript.pluginMonster": {
+      "version": ">=0.3.1"
+    },
+    "com.abynim.sketchplugins.userflows": {
+      "version": ">=2.0.8"
+    },
+    "com.sketchapp.plugins.svgo-compressor": {
+      "version": ">=1.3.8"
+    },
+    "com.sonburn.sketchplugins.symbol-instance-renamer": {
+      "version": ">=2.4.0"
+    },
+    "com.matt-curtis.sketch.sketch-server": {
+      "version": ">=1.6.3"
+    },
+    "net.creative-tweet.exchanger": {
+      "version": ">=1.1.0"
+    },
+    "io.craftbot.sketch.map-generator": {
+      "version": ">=2.0.3"
+    },
+    "me.dutour.mathieu.git-plugin": {
+      "version": ">=0.11.3"
+    }
+  }
+}
